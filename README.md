@@ -1,2 +1,2 @@
 # Stories for Discord!
-I painstakingly made stories for discord. It looks trash. The end.
+I painstakingly made stories for discord with tailwindcss. It looks trash. The end.
