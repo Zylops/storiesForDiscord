@@ -1,0 +1,17 @@
+{
+  "name": "windcord",
+  "version": "1.0.0",
+  "description": "Redesigning discord with tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "tailwindcss build -i dist/index.css -o src/styles.css",
+    "serve": "live-server src/index.html"
+  },
+  "author": "Zylops",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "tailwindcss": "^2.2.7"
+  }
+}
